@@ -1,6 +1,13 @@
 # SokoHub
 
 ## Overview
+1. Homepage
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/aefb64bd-8af2-4771-ae67-b0f325b5d445" />
+
+2. Product Details
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/eb18a7bf-406d-48ea-9d21-cc3583b0a957" />
+
+
 
 SokoHub is a responsive product catalog built with React. Browse products loaded from the [Fake Store API](https://fakestoreapi.com/), then open a product to view its image, description, price, category, and rating.
 
